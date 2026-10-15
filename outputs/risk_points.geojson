@@ -1,0 +1,2205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 1.62,
+        "slope_deg": 4.12,
+        "rainfall_mm": 392.13,
+        "impervious_pct": 82.4,
+        "population": 105.0,
+        "cell_id": "C0000",
+        "hazard_index": 0.717445,
+        "vulnerability_index": 0.106707,
+        "risk_index": 0.076557,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 3.68,
+        "slope_deg": 7.18,
+        "rainfall_mm": 411.87,
+        "impervious_pct": 42.86,
+        "population": 586.0,
+        "cell_id": "C0001",
+        "hazard_index": 0.50771,
+        "vulnerability_index": 0.595528,
+        "risk_index": 0.302356,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 4.65,
+        "slope_deg": 5.9,
+        "rainfall_mm": 438.26,
+        "impervious_pct": 72.59,
+        "population": 600.0,
+        "cell_id": "C0002",
+        "hazard_index": 0.655741,
+        "vulnerability_index": 0.609756,
+        "risk_index": 0.399842,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 5.84,
+        "slope_deg": 0.22,
+        "rainfall_mm": 314.53,
+        "impervious_pct": 30.85,
+        "population": 100.0,
+        "cell_id": "C0003",
+        "hazard_index": 0.532444,
+        "vulnerability_index": 0.101626,
+        "risk_index": 0.05411,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 7.15,
+        "slope_deg": 6.56,
+        "rainfall_mm": 423.33,
+        "impervious_pct": 66.15,
+        "population": 215.0,
+        "cell_id": "C0004",
+        "hazard_index": 0.56142,
+        "vulnerability_index": 0.218496,
+        "risk_index": 0.122668,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 8.4,
+        "slope_deg": 2.91,
+        "rainfall_mm": 479.8,
+        "impervious_pct": 37.1,
+        "population": 385.0,
+        "cell_id": "C0005",
+        "hazard_index": 0.659359,
+        "vulnerability_index": 0.39126,
+        "risk_index": 0.257981,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 10.3,
+        "slope_deg": 4.21,
+        "rainfall_mm": 313.74,
+        "impervious_pct": 35.64,
+        "population": 570.0,
+        "cell_id": "C0006",
+        "hazard_index": 0.355376,
+        "vulnerability_index": 0.579268,
+        "risk_index": 0.205858,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 11.14,
+        "slope_deg": 2.44,
+        "rainfall_mm": 325.36,
+        "impervious_pct": 63.03,
+        "population": 733.0,
+        "cell_id": "C0007",
+        "hazard_index": 0.493758,
+        "vulnerability_index": 0.744919,
+        "risk_index": 0.367809,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 12.48,
+        "slope_deg": 0.39,
+        "rainfall_mm": 427.96,
+        "impervious_pct": 37.72,
+        "population": 432.0,
+        "cell_id": "C0008",
+        "hazard_index": 0.613926,
+        "vulnerability_index": 0.439024,
+        "risk_index": 0.269528,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 13.29,
+        "slope_deg": 7.15,
+        "rainfall_mm": 399.8,
+        "impervious_pct": 83.05,
+        "population": 435.0,
+        "cell_id": "C0009",
+        "hazard_index": 0.472893,
+        "vulnerability_index": 0.442073,
+        "risk_index": 0.209053,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          1.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 2.71,
+        "slope_deg": 6.05,
+        "rainfall_mm": 408.03,
+        "impervious_pct": 49.19,
+        "population": 938.0,
+        "cell_id": "C0100",
+        "hazard_index": 0.569688,
+        "vulnerability_index": 0.953252,
+        "risk_index": 0.543057,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0,
+          1.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 4.02,
+        "slope_deg": 6.79,
+        "rainfall_mm": 401.52,
+        "impervious_pct": 93.4,
+        "population": 525.0,
+        "cell_id": "C0101",
+        "hazard_index": 0.642633,
+        "vulnerability_index": 0.533537,
+        "risk_index": 0.342868,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          1.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 5.32,
+        "slope_deg": 0.4,
+        "rainfall_mm": 340.41,
+        "impervious_pct": 16.61,
+        "population": 50.0,
+        "cell_id": "C0102",
+        "hazard_index": 0.530068,
+        "vulnerability_index": 0.050813,
+        "risk_index": 0.026934,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0,
+          1.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 7.06,
+        "slope_deg": 4.28,
+        "rainfall_mm": 420.69,
+        "impervious_pct": 69.56,
+        "population": 439.0,
+        "cell_id": "C0103",
+        "hazard_index": 0.641867,
+        "vulnerability_index": 0.446138,
+        "risk_index": 0.286361,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0,
+          1.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 7.87,
+        "slope_deg": 3.96,
+        "rainfall_mm": 341.21,
+        "impervious_pct": 84.73,
+        "population": 641.0,
+        "cell_id": "C0104",
+        "hazard_index": 0.572475,
+        "vulnerability_index": 0.651423,
+        "risk_index": 0.372923,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0,
+          1.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 9.4,
+        "slope_deg": 5.46,
+        "rainfall_mm": 428.61,
+        "impervious_pct": 91.37,
+        "population": 558.0,
+        "cell_id": "C0105",
+        "hazard_index": 0.644026,
+        "vulnerability_index": 0.567073,
+        "risk_index": 0.36521,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0,
+          1.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 10.25,
+        "slope_deg": 3.34,
+        "rainfall_mm": 479.68,
+        "impervious_pct": 54.33,
+        "population": 662.0,
+        "cell_id": "C0106",
+        "hazard_index": 0.668291,
+        "vulnerability_index": 0.672764,
+        "risk_index": 0.449602,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0,
+          1.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 11.8,
+        "slope_deg": 3.94,
+        "rainfall_mm": 459.2,
+        "impervious_pct": 43.98,
+        "population": 301.0,
+        "cell_id": "C0107",
+        "hazard_index": 0.57019,
+        "vulnerability_index": 0.305894,
+        "risk_index": 0.174418,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          1.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 13.43,
+        "slope_deg": 0.27,
+        "rainfall_mm": 326.97,
+        "impervious_pct": 84.38,
+        "population": 983.0,
+        "cell_id": "C0108",
+        "hazard_index": 0.59428,
+        "vulnerability_index": 0.998984,
+        "risk_index": 0.593676,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          1.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 14.36,
+        "slope_deg": 4.28,
+        "rainfall_mm": 388.11,
+        "impervious_pct": 87.94,
+        "population": 266.0,
+        "cell_id": "C0109",
+        "hazard_index": 0.547954,
+        "vulnerability_index": 0.270325,
+        "risk_index": 0.148126,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          2.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 3.59,
+        "slope_deg": 3.84,
+        "rainfall_mm": 438.01,
+        "impervious_pct": 49.74,
+        "population": 444.0,
+        "cell_id": "C0200",
+        "hazard_index": 0.672199,
+        "vulnerability_index": 0.45122,
+        "risk_index": 0.30331,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0,
+          2.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 4.76,
+        "slope_deg": 7.28,
+        "rainfall_mm": 449.65,
+        "impervious_pct": 33.5,
+        "population": 938.0,
+        "cell_id": "C0201",
+        "hazard_index": 0.516319,
+        "vulnerability_index": 0.953252,
+        "risk_index": 0.492183,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          2.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 6.31,
+        "slope_deg": 3.62,
+        "rainfall_mm": 428.97,
+        "impervious_pct": 91.6,
+        "population": 265.0,
+        "cell_id": "C0202",
+        "hazard_index": 0.746634,
+        "vulnerability_index": 0.269309,
+        "risk_index": 0.201075,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0,
+          2.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 7.25,
+        "slope_deg": 7.73,
+        "rainfall_mm": 474.11,
+        "impervious_pct": 80.82,
+        "population": 490.0,
+        "cell_id": "C0203",
+        "hazard_index": 0.634447,
+        "vulnerability_index": 0.497967,
+        "risk_index": 0.315934,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0,
+          2.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 9.04,
+        "slope_deg": 5.26,
+        "rainfall_mm": 462.59,
+        "impervious_pct": 38.31,
+        "population": 199.0,
+        "cell_id": "C0204",
+        "hazard_index": 0.55433,
+        "vulnerability_index": 0.202236,
+        "risk_index": 0.112105,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0,
+          2.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 10.15,
+        "slope_deg": 3.41,
+        "rainfall_mm": 380.89,
+        "impervious_pct": 6.26,
+        "population": 0.0,
+        "cell_id": "C0205",
+        "hazard_index": 0.394765,
+        "vulnerability_index": 0.0,
+        "risk_index": 0.0,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0,
+          2.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 11.15,
+        "slope_deg": 4.46,
+        "rainfall_mm": 450.54,
+        "impervious_pct": 59.91,
+        "population": 203.0,
+        "cell_id": "C0206",
+        "hazard_index": 0.594842,
+        "vulnerability_index": 0.206301,
+        "risk_index": 0.122716,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0,
+          2.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 12.25,
+        "slope_deg": 5.04,
+        "rainfall_mm": 435.33,
+        "impervious_pct": 91.07,
+        "population": 684.0,
+        "cell_id": "C0207",
+        "hazard_index": 0.627114,
+        "vulnerability_index": 0.695122,
+        "risk_index": 0.435921,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          2.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 14.06,
+        "slope_deg": 2.99,
+        "rainfall_mm": 300.92,
+        "impervious_pct": 64.81,
+        "population": 588.0,
+        "cell_id": "C0208",
+        "hazard_index": 0.406953,
+        "vulnerability_index": 0.597561,
+        "risk_index": 0.243179,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          2.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 15.37,
+        "slope_deg": 7.61,
+        "rainfall_mm": 388.56,
+        "impervious_pct": 69.84,
+        "population": 138.0,
+        "cell_id": "C0209",
+        "hazard_index": 0.376955,
+        "vulnerability_index": 0.140244,
+        "risk_index": 0.052866,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          3.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 4.15,
+        "slope_deg": 3.89,
+        "rainfall_mm": 323.62,
+        "impervious_pct": 58.83,
+        "population": 709.0,
+        "cell_id": "C0300",
+        "hazard_index": 0.52851,
+        "vulnerability_index": 0.720528,
+        "risk_index": 0.380807,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0,
+          3.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 5.4,
+        "slope_deg": 0.86,
+        "rainfall_mm": 420.34,
+        "impervious_pct": 89.16,
+        "population": 802.0,
+        "cell_id": "C0301",
+        "hazard_index": 0.82899,
+        "vulnerability_index": 0.815041,
+        "risk_index": 0.675661,
+        "risk_class": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          3.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 6.98,
+        "slope_deg": 4.77,
+        "rainfall_mm": 391.39,
+        "impervious_pct": 40.14,
+        "population": 152.0,
+        "cell_id": "C0302",
+        "hazard_index": 0.503883,
+        "vulnerability_index": 0.154472,
+        "risk_index": 0.077836,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0,
+          3.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 8.02,
+        "slope_deg": 1.73,
+        "rainfall_mm": 302.54,
+        "impervious_pct": 14.55,
+        "population": 909.0,
+        "cell_id": "C0303",
+        "hazard_index": 0.391656,
+        "vulnerability_index": 0.92378,
+        "risk_index": 0.361804,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0,
+          3.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 8.87,
+        "slope_deg": 6.7,
+        "rainfall_mm": 416.33,
+        "impervious_pct": 89.11,
+        "population": 967.0,
+        "cell_id": "C0304",
+        "hazard_index": 0.587888,
+        "vulnerability_index": 0.982724,
+        "risk_index": 0.577731,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0,
+          3.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 10.13,
+        "slope_deg": 4.18,
+        "rainfall_mm": 359.0,
+        "impervious_pct": 32.33,
+        "population": 333.0,
+        "cell_id": "C0305",
+        "hazard_index": 0.412655,
+        "vulnerability_index": 0.338415,
+        "risk_index": 0.139648,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0,
+          3.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 12.31,
+        "slope_deg": 4.08,
+        "rainfall_mm": 383.98,
+        "impervious_pct": 60.67,
+        "population": 174.0,
+        "cell_id": "C0306",
+        "hazard_index": 0.500309,
+        "vulnerability_index": 0.176829,
+        "risk_index": 0.088469,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0,
+          3.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 12.85,
+        "slope_deg": 4.25,
+        "rainfall_mm": 378.05,
+        "impervious_pct": 35.28,
+        "population": 612.0,
+        "cell_id": "C0307",
+        "hazard_index": 0.408086,
+        "vulnerability_index": 0.621951,
+        "risk_index": 0.253809,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          3.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 14.23,
+        "slope_deg": 5.74,
+        "rainfall_mm": 398.52,
+        "impervious_pct": 8.07,
+        "population": 662.0,
+        "cell_id": "C0308",
+        "hazard_index": 0.293705,
+        "vulnerability_index": 0.672764,
+        "risk_index": 0.197594,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          3.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 16.22,
+        "slope_deg": 0.55,
+        "rainfall_mm": 398.06,
+        "impervious_pct": 80.51,
+        "population": 462.0,
+        "cell_id": "C0309",
+        "hazard_index": 0.635634,
+        "vulnerability_index": 0.469512,
+        "risk_index": 0.298438,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          4.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 5.17,
+        "slope_deg": 5.2,
+        "rainfall_mm": 387.09,
+        "impervious_pct": 66.08,
+        "population": 20.0,
+        "cell_id": "C0400",
+        "hazard_index": 0.581413,
+        "vulnerability_index": 0.020325,
+        "risk_index": 0.011817,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0,
+          4.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 5.73,
+        "slope_deg": 4.33,
+        "rainfall_mm": 441.37,
+        "impervious_pct": 51.52,
+        "population": 979.0,
+        "cell_id": "C0401",
+        "hazard_index": 0.636846,
+        "vulnerability_index": 0.994919,
+        "risk_index": 0.63361,
+        "risk_class": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          4.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 7.04,
+        "slope_deg": 5.36,
+        "rainfall_mm": 333.48,
+        "impervious_pct": 29.55,
+        "population": 545.0,
+        "cell_id": "C0402",
+        "hazard_index": 0.373498,
+        "vulnerability_index": 0.553862,
+        "risk_index": 0.206866,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0,
+          4.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 8.61,
+        "slope_deg": 0.81,
+        "rainfall_mm": 354.88,
+        "impervious_pct": 35.97,
+        "population": 269.0,
+        "cell_id": "C0403",
+        "hazard_index": 0.546304,
+        "vulnerability_index": 0.273374,
+        "risk_index": 0.149345,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0,
+          4.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 9.96,
+        "slope_deg": 7.99,
+        "rainfall_mm": 446.7,
+        "impervious_pct": 30.89,
+        "population": 181.0,
+        "cell_id": "C0404",
+        "hazard_index": 0.410929,
+        "vulnerability_index": 0.183943,
+        "risk_index": 0.075588,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0,
+          4.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 11.13,
+        "slope_deg": 3.96,
+        "rainfall_mm": 321.62,
+        "impervious_pct": 76.69,
+        "population": 815.0,
+        "cell_id": "C0405",
+        "hazard_index": 0.478003,
+        "vulnerability_index": 0.828252,
+        "risk_index": 0.395907,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0,
+          4.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 12.37,
+        "slope_deg": 0.94,
+        "rainfall_mm": 338.58,
+        "impervious_pct": 5.44,
+        "population": 95.0,
+        "cell_id": "C0406",
+        "hazard_index": 0.382448,
+        "vulnerability_index": 0.096545,
+        "risk_index": 0.036923,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0,
+          4.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 14.28,
+        "slope_deg": 5.24,
+        "rainfall_mm": 373.44,
+        "impervious_pct": 75.5,
+        "population": 869.0,
+        "cell_id": "C0407",
+        "hazard_index": 0.462831,
+        "vulnerability_index": 0.88313,
+        "risk_index": 0.40874,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          4.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 15.55,
+        "slope_deg": 1.62,
+        "rainfall_mm": 304.89,
+        "impervious_pct": 81.19,
+        "population": 360.0,
+        "cell_id": "C0408",
+        "hazard_index": 0.482061,
+        "vulnerability_index": 0.365854,
+        "risk_index": 0.176364,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          4.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 16.56,
+        "slope_deg": 4.66,
+        "rainfall_mm": 396.91,
+        "impervious_pct": 14.87,
+        "population": 733.0,
+        "cell_id": "C0409",
+        "hazard_index": 0.313375,
+        "vulnerability_index": 0.744919,
+        "risk_index": 0.233439,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          5.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 5.28,
+        "slope_deg": 6.06,
+        "rainfall_mm": 431.57,
+        "impervious_pct": 56.29,
+        "population": 576.0,
+        "cell_id": "C0500",
+        "hazard_index": 0.586995,
+        "vulnerability_index": 0.585366,
+        "risk_index": 0.343607,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0,
+          5.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 6.57,
+        "slope_deg": 4.53,
+        "rainfall_mm": 318.26,
+        "impervious_pct": 28.73,
+        "population": 977.0,
+        "cell_id": "C0501",
+        "hazard_index": 0.383064,
+        "vulnerability_index": 0.992886,
+        "risk_index": 0.380339,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          5.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 8.04,
+        "slope_deg": 1.03,
+        "rainfall_mm": 310.88,
+        "impervious_pct": 37.06,
+        "population": 821.0,
+        "cell_id": "C0502",
+        "hazard_index": 0.488579,
+        "vulnerability_index": 0.83435,
+        "risk_index": 0.407646,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0,
+          5.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 9.09,
+        "slope_deg": 5.11,
+        "rainfall_mm": 391.19,
+        "impervious_pct": 29.91,
+        "population": 857.0,
+        "cell_id": "C0503",
+        "hazard_index": 0.435168,
+        "vulnerability_index": 0.870935,
+        "risk_index": 0.379003,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0,
+          5.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 10.26,
+        "slope_deg": 7.47,
+        "rainfall_mm": 329.05,
+        "impervious_pct": 28.05,
+        "population": 14.0,
+        "cell_id": "C0504",
+        "hazard_index": 0.251181,
+        "vulnerability_index": 0.014228,
+        "risk_index": 0.003574,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0,
+          5.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 11.91,
+        "slope_deg": 7.2,
+        "rainfall_mm": 439.82,
+        "impervious_pct": 42.31,
+        "population": 15.0,
+        "cell_id": "C0505",
+        "hazard_index": 0.432035,
+        "vulnerability_index": 0.015244,
+        "risk_index": 0.006586,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0,
+          5.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 12.86,
+        "slope_deg": 2.03,
+        "rainfall_mm": 355.79,
+        "impervious_pct": 13.45,
+        "population": 574.0,
+        "cell_id": "C0506",
+        "hazard_index": 0.387153,
+        "vulnerability_index": 0.583333,
+        "risk_index": 0.225839,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0,
+          5.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 14.68,
+        "slope_deg": 7.5,
+        "rainfall_mm": 363.06,
+        "impervious_pct": 75.18,
+        "population": 621.0,
+        "cell_id": "C0507",
+        "hazard_index": 0.369242,
+        "vulnerability_index": 0.631098,
+        "risk_index": 0.233028,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          5.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 16.03,
+        "slope_deg": 5.77,
+        "rainfall_mm": 306.84,
+        "impervious_pct": 41.38,
+        "population": 622.0,
+        "cell_id": "C0508",
+        "hazard_index": 0.233245,
+        "vulnerability_index": 0.632114,
+        "risk_index": 0.147437,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          5.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 16.92,
+        "slope_deg": 3.81,
+        "rainfall_mm": 476.24,
+        "impervious_pct": 84.06,
+        "population": 702.0,
+        "cell_id": "C0509",
+        "hazard_index": 0.640372,
+        "vulnerability_index": 0.713415,
+        "risk_index": 0.456851,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          6.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 6.07,
+        "slope_deg": 4.11,
+        "rainfall_mm": 475.37,
+        "impervious_pct": 27.64,
+        "population": 298.0,
+        "cell_id": "C0600",
+        "hazard_index": 0.619939,
+        "vulnerability_index": 0.302846,
+        "risk_index": 0.187746,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0,
+          6.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 7.95,
+        "slope_deg": 2.98,
+        "rainfall_mm": 432.37,
+        "impervious_pct": 44.31,
+        "population": 24.0,
+        "cell_id": "C0601",
+        "hazard_index": 0.617158,
+        "vulnerability_index": 0.02439,
+        "risk_index": 0.015053,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          6.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 8.58,
+        "slope_deg": 2.78,
+        "rainfall_mm": 430.88,
+        "impervious_pct": 74.22,
+        "population": 937.0,
+        "cell_id": "C0602",
+        "hazard_index": 0.696629,
+        "vulnerability_index": 0.952236,
+        "risk_index": 0.663355,
+        "risk_class": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0,
+          6.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 9.72,
+        "slope_deg": 6.19,
+        "rainfall_mm": 357.4,
+        "impervious_pct": 86.27,
+        "population": 555.0,
+        "cell_id": "C0603",
+        "hazard_index": 0.502362,
+        "vulnerability_index": 0.564024,
+        "risk_index": 0.283344,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0,
+          6.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 11.86,
+        "slope_deg": 1.74,
+        "rainfall_mm": 310.11,
+        "impervious_pct": 94.74,
+        "population": 166.0,
+        "cell_id": "C0604",
+        "hazard_index": 0.573894,
+        "vulnerability_index": 0.168699,
+        "risk_index": 0.096815,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0,
+          6.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 12.82,
+        "slope_deg": 1.12,
+        "rainfall_mm": 322.62,
+        "impervious_pct": 36.86,
+        "population": 663.0,
+        "cell_id": "C0605",
+        "hazard_index": 0.436159,
+        "vulnerability_index": 0.67378,
+        "risk_index": 0.293876,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0,
+          6.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 14.47,
+        "slope_deg": 2.56,
+        "rainfall_mm": 376.46,
+        "impervious_pct": 16.37,
+        "population": 425.0,
+        "cell_id": "C0606",
+        "hazard_index": 0.385145,
+        "vulnerability_index": 0.431911,
+        "risk_index": 0.166348,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0,
+          6.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 15.18,
+        "slope_deg": 2.07,
+        "rainfall_mm": 375.78,
+        "impervious_pct": 24.76,
+        "population": 128.0,
+        "cell_id": "C0607",
+        "hazard_index": 0.413738,
+        "vulnerability_index": 0.130081,
+        "risk_index": 0.05382,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          6.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 16.28,
+        "slope_deg": 0.42,
+        "rainfall_mm": 429.11,
+        "impervious_pct": 53.72,
+        "population": 568.0,
+        "cell_id": "C0608",
+        "hazard_index": 0.607391,
+        "vulnerability_index": 0.577236,
+        "risk_index": 0.350608,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          6.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 17.8,
+        "slope_deg": 2.19,
+        "rainfall_mm": 326.58,
+        "impervious_pct": 7.1,
+        "population": 283.0,
+        "cell_id": "C0609",
+        "hazard_index": 0.255844,
+        "vulnerability_index": 0.287602,
+        "risk_index": 0.073581,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 6.94,
+        "slope_deg": 3.46,
+        "rainfall_mm": 472.53,
+        "impervious_pct": 17.48,
+        "population": 641.0,
+        "cell_id": "C0700",
+        "hazard_index": 0.596542,
+        "vulnerability_index": 0.651423,
+        "risk_index": 0.388601,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 8.29,
+        "slope_deg": 6.75,
+        "rainfall_mm": 399.54,
+        "impervious_pct": 63.52,
+        "population": 984.0,
+        "cell_id": "C0701",
+        "hazard_index": 0.499105,
+        "vulnerability_index": 1.0,
+        "risk_index": 0.499105,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 9.82,
+        "slope_deg": 6.59,
+        "rainfall_mm": 361.33,
+        "impervious_pct": 51.84,
+        "population": 760.0,
+        "cell_id": "C0702",
+        "hazard_index": 0.397228,
+        "vulnerability_index": 0.772358,
+        "risk_index": 0.306802,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 10.62,
+        "slope_deg": 5.33,
+        "rainfall_mm": 302.05,
+        "impervious_pct": 93.03,
+        "population": 481.0,
+        "cell_id": "C0703",
+        "hazard_index": 0.459292,
+        "vulnerability_index": 0.488821,
+        "risk_index": 0.224512,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 11.66,
+        "slope_deg": 1.93,
+        "rainfall_mm": 391.55,
+        "impervious_pct": 18.58,
+        "population": 763.0,
+        "cell_id": "C0704",
+        "hazard_index": 0.471121,
+        "vulnerability_index": 0.775407,
+        "risk_index": 0.365311,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 13.81,
+        "slope_deg": 3.31,
+        "rainfall_mm": 475.71,
+        "impervious_pct": 90.59,
+        "population": 238.0,
+        "cell_id": "C0705",
+        "hazard_index": 0.716533,
+        "vulnerability_index": 0.24187,
+        "risk_index": 0.173308,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 14.76,
+        "slope_deg": 2.35,
+        "rainfall_mm": 455.02,
+        "impervious_pct": 38.73,
+        "population": 470.0,
+        "cell_id": "C0706",
+        "hazard_index": 0.560328,
+        "vulnerability_index": 0.477642,
+        "risk_index": 0.267636,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 16.14,
+        "slope_deg": 4.48,
+        "rainfall_mm": 385.33,
+        "impervious_pct": 75.98,
+        "population": 594.0,
+        "cell_id": "C0707",
+        "hazard_index": 0.479807,
+        "vulnerability_index": 0.603659,
+        "risk_index": 0.28964,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 17.11,
+        "slope_deg": 1.43,
+        "rainfall_mm": 373.9,
+        "impervious_pct": 48.64,
+        "population": 5.0,
+        "cell_id": "C0708",
+        "hazard_index": 0.472161,
+        "vulnerability_index": 0.005081,
+        "risk_index": 0.002399,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 19.05,
+        "slope_deg": 6.55,
+        "rainfall_mm": 450.31,
+        "impervious_pct": 68.21,
+        "population": 814.0,
+        "cell_id": "C0709",
+        "hazard_index": 0.44247,
+        "vulnerability_index": 0.827236,
+        "risk_index": 0.366027,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          8.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 7.14,
+        "slope_deg": 1.55,
+        "rainfall_mm": 353.83,
+        "impervious_pct": 54.21,
+        "population": 271.0,
+        "cell_id": "C0800",
+        "hazard_index": 0.592195,
+        "vulnerability_index": 0.275407,
+        "risk_index": 0.163094,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0,
+          8.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 8.54,
+        "slope_deg": 5.97,
+        "rainfall_mm": 479.79,
+        "impervious_pct": 6.65,
+        "population": 222.0,
+        "cell_id": "C0801",
+        "hazard_index": 0.473728,
+        "vulnerability_index": 0.22561,
+        "risk_index": 0.106878,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          8.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 10.55,
+        "slope_deg": 5.63,
+        "rainfall_mm": 355.21,
+        "impervious_pct": 9.02,
+        "population": 402.0,
+        "cell_id": "C0802",
+        "hazard_index": 0.289702,
+        "vulnerability_index": 0.408537,
+        "risk_index": 0.118354,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0,
+          8.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 11.38,
+        "slope_deg": 7.71,
+        "rainfall_mm": 392.99,
+        "impervious_pct": 62.96,
+        "population": 161.0,
+        "cell_id": "C0803",
+        "hazard_index": 0.415236,
+        "vulnerability_index": 0.163618,
+        "risk_index": 0.06794,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0,
+          8.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 13.27,
+        "slope_deg": 1.02,
+        "rainfall_mm": 325.54,
+        "impervious_pct": 40.03,
+        "population": 560.0,
+        "cell_id": "C0804",
+        "hazard_index": 0.446178,
+        "vulnerability_index": 0.569106,
+        "risk_index": 0.253922,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0,
+          8.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 13.86,
+        "slope_deg": 0.52,
+        "rainfall_mm": 406.69,
+        "impervious_pct": 75.85,
+        "population": 166.0,
+        "cell_id": "C0805",
+        "hazard_index": 0.66789,
+        "vulnerability_index": 0.168699,
+        "risk_index": 0.112673,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0,
+          8.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 15.8,
+        "slope_deg": 2.5,
+        "rainfall_mm": 351.4,
+        "impervious_pct": 17.06,
+        "population": 397.0,
+        "cell_id": "C0806",
+        "hazard_index": 0.335794,
+        "vulnerability_index": 0.403455,
+        "risk_index": 0.135478,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0,
+          8.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 16.39,
+        "slope_deg": 6.03,
+        "rainfall_mm": 301.7,
+        "impervious_pct": 59.54,
+        "population": 491.0,
+        "cell_id": "C0807",
+        "hazard_index": 0.263612,
+        "vulnerability_index": 0.498984,
+        "risk_index": 0.131538,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          8.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 18.44,
+        "slope_deg": 2.97,
+        "rainfall_mm": 439.03,
+        "impervious_pct": 74.88,
+        "population": 898.0,
+        "cell_id": "C0808",
+        "hazard_index": 0.568907,
+        "vulnerability_index": 0.912602,
+        "risk_index": 0.519186,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          8.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 19.8,
+        "slope_deg": 1.53,
+        "rainfall_mm": 392.91,
+        "impervious_pct": 21.17,
+        "population": 552.0,
+        "cell_id": "C0809",
+        "hazard_index": 0.381819,
+        "vulnerability_index": 0.560976,
+        "risk_index": 0.214191,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          9.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 7.94,
+        "slope_deg": 0.42,
+        "rainfall_mm": 321.01,
+        "impervious_pct": 65.09,
+        "population": 721.0,
+        "cell_id": "C0900",
+        "hazard_index": 0.602202,
+        "vulnerability_index": 0.732724,
+        "risk_index": 0.441248,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0,
+          9.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 9.74,
+        "slope_deg": 0.22,
+        "rainfall_mm": 367.42,
+        "impervious_pct": 38.12,
+        "population": 221.0,
+        "cell_id": "C0901",
+        "hazard_index": 0.573378,
+        "vulnerability_index": 0.224593,
+        "risk_index": 0.128777,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          9.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 10.93,
+        "slope_deg": 4.88,
+        "rainfall_mm": 344.67,
+        "impervious_pct": 14.56,
+        "population": 334.0,
+        "cell_id": "C0902",
+        "hazard_index": 0.309416,
+        "vulnerability_index": 0.339431,
+        "risk_index": 0.105025,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0,
+          9.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 12.18,
+        "slope_deg": 7.02,
+        "rainfall_mm": 430.79,
+        "impervious_pct": 39.31,
+        "population": 631.0,
+        "cell_id": "C0903",
+        "hazard_index": 0.413115,
+        "vulnerability_index": 0.64126,
+        "risk_index": 0.264914,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0,
+          9.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 13.3,
+        "slope_deg": 1.12,
+        "rainfall_mm": 385.39,
+        "impervious_pct": 49.89,
+        "population": 568.0,
+        "cell_id": "C0904",
+        "hazard_index": 0.553799,
+        "vulnerability_index": 0.577236,
+        "risk_index": 0.319673,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0,
+          9.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 14.82,
+        "slope_deg": 6.66,
+        "rainfall_mm": 423.04,
+        "impervious_pct": 46.03,
+        "population": 599.0,
+        "cell_id": "C0905",
+        "hazard_index": 0.396575,
+        "vulnerability_index": 0.60874,
+        "risk_index": 0.241411,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0,
+          9.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 15.95,
+        "slope_deg": 0.74,
+        "rainfall_mm": 475.58,
+        "impervious_pct": 77.76,
+        "population": 796.0,
+        "cell_id": "C0906",
+        "hazard_index": 0.733856,
+        "vulnerability_index": 0.808943,
+        "risk_index": 0.593647,
+        "risk_class": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0,
+          9.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 17.21,
+        "slope_deg": 6.08,
+        "rainfall_mm": 340.69,
+        "impervious_pct": 34.25,
+        "population": 518.0,
+        "cell_id": "C0907",
+        "hazard_index": 0.23448,
+        "vulnerability_index": 0.526423,
+        "risk_index": 0.123436,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          9.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 18.76,
+        "slope_deg": 2.72,
+        "rainfall_mm": 461.66,
+        "impervious_pct": 64.13,
+        "population": 505.0,
+        "cell_id": "C0908",
+        "hazard_index": 0.574107,
+        "vulnerability_index": 0.513211,
+        "risk_index": 0.294638,
+        "risk_class": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          9.0
+        ]
+      },
+      "properties": {
+        "elevation_m": 19.9,
+        "slope_deg": 1.58,
+        "rainfall_mm": 445.15,
+        "impervious_pct": 24.82,
+        "population": 705.0,
+        "cell_id": "C0909",
+        "hazard_index": 0.462071,
+        "vulnerability_index": 0.716463,
+        "risk_index": 0.331057,
+        "risk_class": "medium"
+      }
+    }
+  ]
+}
